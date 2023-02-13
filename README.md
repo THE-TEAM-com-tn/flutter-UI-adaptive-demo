@@ -24,6 +24,9 @@ Demo code for adaptive app development techniques.
 <br/>
 
 ### Demonstrated in this repo:
+
+[https://github.com/gskinnerTeam/flutter-adaptive-demo](https://github.com/gskinnerTeam/flutter-adaptive-demo)
+
 * Login view
   * re-flows from vertical to horizontal layout depending on screen size
   * shows how to use horizontal constraints to stop an item from growing excessively large
